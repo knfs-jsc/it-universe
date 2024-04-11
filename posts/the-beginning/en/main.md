@@ -1,6 +1,6 @@
-![markdown](./../../../style/style.md)
+![markdown](https://knfs-jsc.github.io/it-universe/style/style.md)
 
-![markdown](./../../../shared/lang/main.md)
+![markdown](https://knfs-jsc.github.io/it-universe/shared/lang/main.md)
 
 # The Emergence of Computer Science
 > *Many people might think that the beginning of computer science involves the use of the binary system 0,1 proposed by mathematicians such as Gottfried Wilhelm Leibniz and George Boole, and they might be correct. However, the initial use of the binary system was for Mathematics - a fundamental field of study, so I will not delve into it in this article but focus on the field of computer science instead.*
@@ -13,7 +13,7 @@
     <div class="column">
         <h4>Synthesis</h4>
 
-![markdown](./../../../shared/authors/kent_phung/en/intro.md)
+![markdown](https://knfs-jsc.github.io/it-universe/shared/authors/kent-phung/en/intro.md)
 
 </div>
 <div class="column">

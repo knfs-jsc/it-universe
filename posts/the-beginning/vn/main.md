@@ -1,6 +1,6 @@
-![markdown](./../../../style/style.md)
+![markdown](https://knfs-jsc.github.io/it-universe/style/style.md)
 
-![markdown](./../../../shared/lang/main.md)
+![markdown](https://knfs-jsc.github.io/it-universe/shared/lang/main.md)
 
 
 # Sự khời đầu của khoa học máy tính
@@ -15,7 +15,7 @@
 	<div class="column">
 	<h4>Tổng hợp</h4>
 
-![markdown](./../../../shared/authors/kent_phung/vn/intro.md)
+![markdown](https://knfs-jsc.github.io/it-universe/shared/authors/kent-phung/vn/intro.md)
 
 </div>
 <div class="column">
