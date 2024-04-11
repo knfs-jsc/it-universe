@@ -10,4 +10,4 @@ Chào mừng bạn đến với IT Universe, nơi chúng tôi sẽ dẫn bạn v
 | ----------------------------------- | --------------------------------------------------------------- | -------------- |
 | [Sự khời đầu của khoa học máy tính] | [Kent Phùng](https://www.linkedin.com/in/kent-phung-9a5400220/) | April 12, 2024 |
 
-[Sự khời đầu của khoa học máy tính]: "https://knfs-jsc.github.io/it-universe/posts/the_beginning/vn/main.md
+[Sự khời đầu của khoa học máy tính]: "https://knfs-jsc.github.io/it-universe/posts/the-beginning/vn/main.md
