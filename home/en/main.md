@@ -1,4 +1,4 @@
-![markdown](./../../shared/lang/main.md)
+![markdown](https://knfs-jsc.github.io/it-universe/shared/lang/main.md)
 
 ---
 
@@ -10,4 +10,4 @@ Welcome to the universe of information technology, where we will take you on a m
 |--|--|--|
 | [The Emergence of Computer Science] |[Kent Phung](https://www.linkedin.com/in/kent-phung-9a5400220/)|April 12, 2024|
 
-[The Emergence of Computer Science]: "./../../posts/the_beginning/en/main.md
+[The Emergence of Computer Science]: "https://knfs-jsc.github.io/it-universe/posts/the_beginning/en/main.md
